@@ -45,4 +45,7 @@ This Readme is describing what each script in the 0x00 shell, basics project fro
 14. Copy HTML files
 	This bash script copy all html files in the current directory to its 		parent directory, but only copy files that not present in the parent 		directory or are neweri
 
+15. Lets move
+	This bash script moves all file beginning with an upper case in the ./ 		to /tmp/u/
+
 
