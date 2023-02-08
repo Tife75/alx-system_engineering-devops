@@ -31,12 +31,15 @@ This Readme is describing what each script in the 0x00 shell, basics project fro
 	This script deletes /tmp/my_first_directory with all content
 
 10. Back to the future
-	This script change the current working directory to the previous one
+	This bash script change the current working directory to the previous 		one
 
 11. Lists
-	This script list in long format as well as hidden files of the current 		directory, parent of the working directory amd /boot
+	This bash script list in long format as well as hidden files of the 		current directory, parent of the working directory amd /boot
 
 12. File type
 	This bash script prints the  type of the file named /tmp/iamfile
+
+13. We are symbols, and inhabit symbols
+	This bash script create a symlink in current directory to /bin/ls
 
 
