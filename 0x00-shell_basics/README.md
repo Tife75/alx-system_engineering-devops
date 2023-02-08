@@ -48,4 +48,7 @@ This Readme is describing what each script in the 0x00 shell, basics project fro
 15. Lets move
 	This bash script moves all file beginning with an upper case in the ./ 		to /tmp/u/
 
+16. Clean emacs
+	This bash script remove all files that ends with tilde(~) signs usually 	added by emacs
+
 
