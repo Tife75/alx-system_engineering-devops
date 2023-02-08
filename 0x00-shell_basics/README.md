@@ -12,4 +12,7 @@ This Readme is describing what each script in the 0x00 shell, basics project fro
 3. The long format
 	This script list the content of the current directory in long format
 
+4. Hidden files
+	This script list the content as well as the hidden file in the current 		directory in long format
+
 
