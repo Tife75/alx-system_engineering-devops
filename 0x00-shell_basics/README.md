@@ -42,4 +42,7 @@ This Readme is describing what each script in the 0x00 shell, basics project fro
 13. We are symbols, and inhabit symbols
 	This bash script create a symlink in current directory to /bin/ls
 
+14. Copy HTML files
+	This bash script copy all html files in the current directory to its 		parent directory, but only copy files that not present in the parent 		directory or are neweri
+
 
