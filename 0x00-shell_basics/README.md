@@ -26,3 +26,8 @@ This Readme is describing what each script in the 0x00 shell, basics project fro
 
 8. Bye bye betty
 	This script delete file betty in /tmp/my_first_directory/
+
+9. Bye bye my first directory
+	This script deletes /tmp/my_first_directory with all content
+
+
