@@ -36,4 +36,7 @@ This Readme is describing what each script in the 0x00 shell, basics project fro
 11. Lists
 	This script list in long format as well as hidden files of the current 		directory, parent of the working directory amd /boot
 
+12. File type
+	This bash script prints the  type of the file named /tmp/iamfile
+
 
