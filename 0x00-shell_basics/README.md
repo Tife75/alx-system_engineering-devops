@@ -51,4 +51,7 @@ This Readme is describing what each script in the 0x00 shell, basics project fro
 16. Clean emacs
 	This bash script remove all files that ends with tilde(~) signs usually 	added by emacs
 
+17. Tree
+	The bash script create a new directory having a subdirectory which also 	has a subdirectory using a single command
+
 
