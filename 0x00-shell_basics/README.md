@@ -22,6 +22,7 @@ This Readme is describing what each script in the 0x00 shell, basics project fro
 	This script creates a directory named my_first_directory in /tmp 		directory
 
 7. Betty in my fisrt directory
-	This script move the file betty from /tmp/ to /tmp/my_first_directory
+	This script move the file betty from /tmp/ to /tmp/my_first_directory/
 
-
+8. Bye bye betty
+	This script delete file betty in /tmp/my_first_directory/
