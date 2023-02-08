@@ -20,3 +20,8 @@ This Readme is describing what each script in the 0x00 shell, basics project fro
 
 6. Welcome
 	This script creates a directory named my_first_directory in /tmp 		directory
+
+7. Betty in my fisrt directory
+	This script move the file betty from /tmp/ to /tmp/my_first_directory
+
+
