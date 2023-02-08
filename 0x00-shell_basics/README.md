@@ -33,4 +33,7 @@ This Readme is describing what each script in the 0x00 shell, basics project fro
 10. Back to the future
 	This script change the current working directory to the previous one
 
+11. Lists
+	This script list in long format as well as hidden files of the current 		directory, parent of the working directory amd /boot
+
 
