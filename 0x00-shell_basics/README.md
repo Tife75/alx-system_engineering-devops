@@ -2,3 +2,6 @@ This Readme is describing what each script in the 0x00 shell, basics project fro
 
 0. Where am I
 	This script will print the absolute pathname of the current working directory
+
+1. What's in there
+	This script list the content of the current directory
