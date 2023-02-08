@@ -30,4 +30,7 @@ This Readme is describing what each script in the 0x00 shell, basics project fro
 9. Bye bye my first directory
 	This script deletes /tmp/my_first_directory with all content
 
+10. Back to the future
+	This script change the current working directory to the previous one
+
 
