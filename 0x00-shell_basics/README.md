@@ -18,4 +18,5 @@ This Readme is describing what each script in the 0x00 shell, basics project fro
 5. I love numbers
 	This script list the content of the current directory in long format 		while displaying the groups ID numerically starting with hidden files
 
-
+6. Welcome
+	This script creates a directory named my_first_directory in /tmp 		directory
