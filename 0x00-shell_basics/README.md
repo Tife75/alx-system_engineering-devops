@@ -54,4 +54,7 @@ This Readme is describing what each script in the 0x00 shell, basics project fro
 17. Tree
 	The bash script create a new directory having a subdirectory which also 	has a subdirectory using a single command
 
+18. Life is a series of commas, not periods
+	This bash script list all files and directories including hidden files, 	replaces \n with comma and sort the result
+
 
