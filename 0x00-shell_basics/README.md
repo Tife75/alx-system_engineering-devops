@@ -1,60 +1,61 @@
 This Readme is describing what each script in the 0x00 shell, basics project from mandatory tasks to advanced
 
 0. Where am I
-	This script will print the absolute pathname of the current working directory
+	- This script will print the absolute pathname of the current working directory
 
 1. What's in there
-	This script list the content of the current directory
+	- This script list the content of the current directory
 
 2. There's no place like home
-	This script changes the working directory to the user home directory
+	- This script changes the working directory to the user home directory
 
 3. The long format
-	This script list the content of the current directory in long format
+	- This script list the content of the current directory in long format
 
 4. Hidden files
-	This script list the content as well as the hidden file in the current 		directory in long format
+	- This script list the content as well as the hidden file in the current 		directory in long format
 
 5. I love numbers
-	This script list the content of the current directory in long format 		while displaying the groups ID numerically starting with hidden files
+	- This script list the content of the current directory in long format 		while displaying the groups ID numerically starting with hidden files
 
 6. Welcome
-	This script creates a directory named my_first_directory in /tmp 		directory
+	- This script creates a directory named my_first_directory in /tmp 		directory
 
 7. Betty in my fisrt directory
-	This script move the file betty from /tmp/ to /tmp/my_first_directory/
+	- This script move the file betty from /tmp/ to /tmp/my_first_directory/
 
 8. Bye bye betty
-	This script delete file betty in /tmp/my_first_directory/
+	- This script delete file betty in /tmp/my_first_directory/
 
 9. Bye bye my first directory
-	This script deletes /tmp/my_first_directory with all content
+	- This script deletes /tmp/my_first_directory with all content
 
 10. Back to the future
-	This bash script change the current working directory to the previous 		one
+	- This bash script change the current working directory to the previous 		one
 
 11. Lists
-	This bash script list in long format as well as hidden files of the 		current directory, parent of the working directory amd /boot
+	- This bash script list in long format as well as hidden files of the 		current directory, parent of the working directory amd /boot
 
 12. File type
-	This bash script prints the  type of the file named /tmp/iamfile
+	- This bash script prints the  type of the file named /tmp/iamfile
 
 13. We are symbols, and inhabit symbols
-	This bash script create a symlink in current directory to /bin/ls
+	- This bash script create a symlink in current directory to /bin/ls
 
 14. Copy HTML files
-	This bash script copy all html files in the current directory to its 		parent directory, but only copy files that not present in the parent 		directory or are neweri
+	- This bash script copy all html files in the current directory to its 		parent directory, but only copy files that not present in the parent 		directory or are neweri
 
 15. Lets move
-	This bash script moves all file beginning with an upper case in the ./ 		to /tmp/u/
+	- This bash script moves all file beginning with an upper case in the ./ 		to /tmp/u/
 
 16. Clean emacs
-	This bash script remove all files that ends with tilde(~) signs usually 	added by emacs
+	- This bash script remove all files that ends with tilde(~) signs usually 	added by emacs
 
 17. Tree
-	The bash script create a new directory having a subdirectory which also 	has a subdirectory using a single command
+	- The bash script create a new directory having a subdirectory which also 	has a subdirectory using a single command
 
 18. Life is a series of commas, not periods
-	This bash script list all files and directories including hidden files, 	replaces \n with comma and sort the result
+	- This bash script list all files and directories including hidden files, 	replaces \n with comma and sort the result
 
-
+19. File type: School
+	- This bash script create a magic file that can be used with command file 	to detect school data files
